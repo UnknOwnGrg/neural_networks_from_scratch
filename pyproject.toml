@@ -7,4 +7,5 @@ dependencies = [
     "ipykernel>=7.4.0",
     "matplotlib>=3.11.2",
     "numpy>=2.5.5",
+    "torch>=2.15.0",
 ]
